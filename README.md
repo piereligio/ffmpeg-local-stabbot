@@ -1,4 +1,4 @@
-# ffmpeg-local-stabbot
+# ffmpeg local stabbot
 Little set of scripts for stabilizing videos in the same fashion as Reddit u/stabbot does.
 
 Both are set to process the file that you pass as argument. 
